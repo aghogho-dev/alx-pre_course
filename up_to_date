@@ -1,1 +1,4 @@
 up_to_date
+git pull
+git remote
+git fetch
